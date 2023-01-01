@@ -25,10 +25,10 @@
   "homepage": "https://github.com/Dip686/smart-popup#readme",
   "dependencies": {
     "serve": "^11.1.0",
-    "webpack": "^4.39.2"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
     "eslint": "^6.1.0",
-    "webpack-cli": "^3.3.6"
+    "webpack-cli": "^5.0.1"
   }
 }
